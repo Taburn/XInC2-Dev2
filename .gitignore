@@ -3,3 +3,5 @@
 *.SchDocPreview
 *.PrjPCBStructure
 *.log
+*.html
+*.drc
